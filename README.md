@@ -55,7 +55,9 @@ These signals were combined to produce a **fraud risk score** that predicts susp
 ## Visualization
 A fraud score visualization demonstrates that the probability of fraud increases as more suspicious signals appear in a job posting.
 
-fraud_score_chart.png
+## Fraud Score Visualization
+
+![Fraud Score Chart](fraud_score_chart.png)
 
 ## Tools Used
 - Python
